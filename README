@@ -1,0 +1,12 @@
+DictionaryList outputs definitions into a file. 
+This may be useful for teachers or students who want to make a word bank quickly.
+There are two flavours of this program.
+
+DictionaryListConsole.py takes input from console.
+DictionaryListFile.py takes input from a file.
+
+TODO:
+Some HTML formatting is still left behind
+There is some difficulty finding some words
+Would like to update it so that user is given choice between multiple definitions
+Would like to make it output to different formats and styles
